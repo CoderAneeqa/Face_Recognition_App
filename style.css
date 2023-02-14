@@ -1,0 +1,26 @@
+body{
+    color: darkmagenta;
+    background-image: linear-gradient(to bottom right, pink, turquoise);
+    font-family: 'Fredoka One', cursive;
+    
+}
+
+.heading{
+    width: 90%;
+    font-size: 30px;
+    
+    color: darkmagenta;
+}
+
+#camera{
+    border: 2px dotted darkmagenta;
+    width: 350px;
+    height: 300px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.name_objects, #result_objectname, #result_objectaccuracy{
+    color:darkmagenta ;
+    font-size: 20px;
+    font-family: 'Fredoka One', cursive;
+}
